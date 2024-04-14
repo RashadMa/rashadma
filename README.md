@@ -1,6 +1,5 @@
 <h1 align="center">I'am Rashad</h1>
 <h3 align="center">Frontend and Mobile Developer</h3>
-<img align="right" alt="pinkfloyd" width={400} src="https://media.giphy.com/media/11xCNEf9GZijVC/giphy.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadma&label=Profile%20views&color=0e75b6&style=flat" alt="rashadma" /> </p>
 
