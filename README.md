@@ -1,5 +1,5 @@
 <h1 align="center">I'am Rashad</h1>
-<h3 align="center">Frontend and Mobile Developer</h3>
+<h3 align="center">Software Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadma&label=Profile%20views&color=0e75b6&style=flat" alt="rashadma" /> </p>
 
